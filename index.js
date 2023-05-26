@@ -134,3 +134,5 @@ while (!exit && player.health > 0 && player.pieceOfMap < totalPiecesOfMap) {
 
 // Give final stats
 exitForest();
+
+new stuff:
