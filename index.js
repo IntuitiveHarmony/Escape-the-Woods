@@ -136,3 +136,4 @@ while (!exit && player.health > 0 && player.pieceOfMap < totalPiecesOfMap) {
 exitForest();
 
 new stuff:
+new new stuff:
